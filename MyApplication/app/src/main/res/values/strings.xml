@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HW4_GeoCalc</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <string-array name="dUnits">
+        <item>Kilometers</item>
+        <item>Miles</item>
+    </string-array>
+    <string-array name="bUnits">
+        <item>Degrees</item>
+        <item>Mils</item>
+    </string-array>
+</resources>
